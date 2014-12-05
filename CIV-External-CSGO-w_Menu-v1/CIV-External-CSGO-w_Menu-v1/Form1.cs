@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using System.IO;
+
 namespace CIV_External_CSGO_w_Menu_v1
 {
     public partial class MenuForm : Form
@@ -24,10 +26,16 @@ namespace CIV_External_CSGO_w_Menu_v1
            
             Microsoft.Win32.Registry.SetValue(key, valueName, (uint)(0x0), Microsoft.Win32.RegistryValueKind.DWord);
 
-            MenuBrowser.Navigate("file:///H:/GitHub/CIV-External-v1/CSGOHACK/Csgohack.html");
+            var programpath = Directory.GetCurrentDirectory();
+            MenuBrowser.Navigate("file:///"+ programpath + "/../../../../CSGOHACK/Csgohack.html");
         }
 
         private void ApplyButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MenuBrowser_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
 
         }

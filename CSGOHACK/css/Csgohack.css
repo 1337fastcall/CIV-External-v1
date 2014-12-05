@@ -219,14 +219,14 @@ text-align:center;
 position:absolute;
 padding:0;
 height:40px;
-width:20%;
+width:25%;
 color:#3b61a1;
 font-family:Aliquam;
 background-color:white;
 border:none;
 margin-top:50px;
 text-align:center;
-font-size:35px;
+font-size:30px;
 line-height:40px;
 font-weight:400;
 }
@@ -240,14 +240,14 @@ color:white;
 position:absolute;
 padding:0;
 height:40px;
-width:20%;
+width:25%;
 color:#3b61a1;
 font-family:Aliquam;
 background-color:white;
 border:none;
 margin-top:50px;
 text-align:center;
-font-size:35px;
+font-size:30px;
 line-height:40px;
 font-weight:400;
 }
@@ -290,7 +290,7 @@ input[type=range]::-ms-track {
     
     /*leave room for the larger thumb to overflow with a transparent border */
     border-color: transparent;
-    border-width: .2px;
+    border-width: .001px;
     
     /*remove default tick marks*/
     color: transparent;

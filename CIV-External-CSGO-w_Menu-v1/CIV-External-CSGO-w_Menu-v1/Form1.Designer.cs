@@ -41,6 +41,7 @@
             this.MenuBrowser.Size = new System.Drawing.Size(584, 761);
             this.MenuBrowser.TabIndex = 0;
             this.MenuBrowser.Url = new System.Uri("", System.UriKind.Relative);
+            this.MenuBrowser.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.MenuBrowser_DocumentCompleted);
             // 
             // ApplyButton
             // 

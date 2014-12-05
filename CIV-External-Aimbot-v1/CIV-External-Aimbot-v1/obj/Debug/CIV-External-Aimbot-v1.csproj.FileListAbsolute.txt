@@ -1,0 +1,6 @@
+H:\GitHub\CIV-External-v1\CIV-External-Aimbot-v1\CIV-External-Aimbot-v1\bin\Debug\CIV-External-Aimbot-v1.exe.config
+H:\GitHub\CIV-External-v1\CIV-External-Aimbot-v1\CIV-External-Aimbot-v1\obj\Debug\CIV-External-Aimbot-v1.csprojResolveAssemblyReference.cache
+H:\GitHub\CIV-External-v1\CIV-External-Aimbot-v1\CIV-External-Aimbot-v1\bin\Debug\CIV-External-Aimbot-v1.exe
+H:\GitHub\CIV-External-v1\CIV-External-Aimbot-v1\CIV-External-Aimbot-v1\bin\Debug\CIV-External-Aimbot-v1.pdb
+H:\GitHub\CIV-External-v1\CIV-External-Aimbot-v1\CIV-External-Aimbot-v1\obj\Debug\CIV-External-Aimbot-v1.exe
+H:\GitHub\CIV-External-v1\CIV-External-Aimbot-v1\CIV-External-Aimbot-v1\obj\Debug\CIV-External-Aimbot-v1.pdb

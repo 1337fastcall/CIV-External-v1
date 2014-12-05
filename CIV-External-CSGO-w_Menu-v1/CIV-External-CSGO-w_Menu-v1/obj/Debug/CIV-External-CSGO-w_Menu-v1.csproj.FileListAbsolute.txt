@@ -1,0 +1,9 @@
+H:\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\bin\Debug\CIV-External-CSGO-w_Menu-v1.exe.config
+H:\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\bin\Debug\CIV-External-CSGO-w_Menu-v1.exe
+H:\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\bin\Debug\CIV-External-CSGO-w_Menu-v1.pdb
+H:\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV-External-CSGO-w_Menu-v1.csprojResolveAssemblyReference.cache
+H:\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV_External_CSGO_w_Menu_v1.MenuForm.resources
+H:\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV_External_CSGO_w_Menu_v1.Properties.Resources.resources
+H:\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV-External-CSGO-w_Menu-v1.csproj.GenerateResource.Cache
+H:\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV-External-CSGO-w_Menu-v1.exe
+H:\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV-External-CSGO-w_Menu-v1.pdb

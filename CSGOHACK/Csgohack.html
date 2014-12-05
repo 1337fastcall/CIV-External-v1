@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html>
+    
+
+<head>
+        <title>Multihack</title>
+        <link rel="stylesheet" href="css/Csgohack.css">
+        <link rel="stylesheet" href="css/style.css">
+
+</head>
+    
+    
+    
+    
+<body onload="fl()">  
+    
+   <!--Bodydiv which contains the whole page-->
+   <div id = "BBody">
+       
+       
+            <!--Div which contains the Nameslider and Images of each Cards-->
+            <div id="UP">
+                
+                <div id = "UPaim">
+                <p class="HeaderUP">Aimbot</p>
+                </div>
+       
+       
+                <div id = "UPesp">
+                <p class="HeaderUP">ESP</p>
+                </div>
+       
+       
+                <div id = "UPmisc">
+                <p class="HeaderUP">Misc</p>
+                </div>
+                
+            </div>
+    
+       
+            <!--Div of the Cardselectors-->
+            <div id = "Cardselect">
+                    <div id="Aimcardselect"  onclick="foc(1)"><p class="Headerselect">Aimbot</p></div>
+                    <div id="Espcardselect"  onclick="foc(2)"><p class="Headerselect">ESP</p></div>
+                    <div id="Misccardselect" onclick="foc(3)"><p class="Headerselect">Misc</p></div>
+            </div>
+       
+    
+            
+       
+                    <!--Div of the Aimcard with 2 underdivs which splits the Cards in 2 parts-->
+                    
+                            <div id="leftaim">
+                                
+                                <div class="Category"><p class="Categorytext">FoV</p></div>
+                                <div class="Category"><p class="Categorytext">Smooth</p></div>
+                                <div class="Category"><p class="Categorytext">RCS</p></div>
+                                <div class="Category"><p class="Categorytext">Nospread</p></div>
+                                
+                            </div>
+       
+                            <div id="rightaim">
+                                
+                                
+                                
+                                <div class="Categoryvalue">
+                                <input id ="FoVslider" type="range" name="rangeInput" min="0" max="100" step="1" value="50"                                         onchange="getValueSliderFoV(this.value)"> 
+                                <input type="text" id="textInputFoV" value="50" onchange="setValueSliderFoVc()"                                                           onkeypress="setValueSliderFoV(event)">
+                                
+                                
+                            </div>
+                                
+                                
+                                
+                                
+                             <div class="Categoryvalue">
+                                 
+                                <input id ="Smoothslider" type="range" name="rangeInput" min="0" max="100" step="1" value="50"                                         onchange="getValueSliderSmooth(this.value)"> 
+                                <input type="text" id="textInputSmooth" value="50" onchange="setValueSliderSmoothc()"                                                 onkeypress="setValueSliderSmooth(event)">
+                            
+                             </div>
+                                    
+                                <div class="Categoryvalue">
+                                    <input type="checkbox" name="RCS" value="" id="RCS" onchange="setValueRCS()">
+                                </div>
+                                
+                                <div class="Categoryvalue">
+                                    <input type="checkbox" name="Nospread" value="" id="Nospread" onchange="setValueNospread()">
+                                </div>
+                                
+                                
+                            </div>
+                    
+       
+       
+       
+                    
+                            <div id="leftesp"></div>
+                            <div id="rightesp"></div>
+                    
+                
+                
+                    
+                            <div id="leftmisc"></div>
+                            <div id="rightmisc"></div>
+                    
+       
+            
+       
+       
+   <!--End of the BBody Div-->  
+   </div>  
+       
+   
+
+    
+    
+    <script type="text/javascript" src="js/Csgohack.js"></script>
+    
+    </body>

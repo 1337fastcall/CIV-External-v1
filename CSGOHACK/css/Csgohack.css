@@ -1,0 +1,421 @@
+body{
+padding:0;
+margin:0;
+}
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+/*Style of the Div which contains the whole div*/
+
+#BBody{
+position:absolute;
+height:100%;
+width:100%;
+overflow:hidden;
+}
+
+/*+++++End for the Style of the Div which contains whole div+++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+
+/*Style of the Div which contains Header + Images of each Card*/
+#UP{
+height:25%;
+width:100%;
+overflow:hidden;
+padding:0;
+}
+
+#UPaim{
+position:absolute;
+padding:0;
+height:25%;
+width:100%;
+background-color:#3b61a1;
+background-size:cover;
+margin-bottom:0%;
+text-align:center;
+vertical-align:bottom;
+}
+
+#UPesp{
+position:absolute;
+height:25%;
+width:100%;
+background-color:#248f64;
+margin-top:1000%;
+text-align:center;
+vertical-align:bottom;
+}
+
+#UPmisc{
+position:absolute;
+height:25%;
+width:100%;
+background-color:#4a4a4a;
+margin-top:1000%;
+text-align:center;
+vertical-align:bottom;
+}
+
+.HeaderUP{
+margin:0;
+font-family:Aliquam;
+font-size:180px;
+color:white;
+text-shadow: 0 0 10px rgba(0,0,0,0.7);
+position: relative;
+top: 50%;
+transform: translateY(-50%);
+}
+
+.HeaderUP:hover{
+cursor:default;
+}
+
+
+
+/*+++++End for the Style for the Header + Image Div+++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+
+/*Stlye for the Div which will contain the Cardselectors*/
+
+#Cardselect{
+height:5%;
+width:100%;
+background-color:white
+}
+
+/*Style for each Cardselect*/
+
+#Aimcardselect{
+height:100%;
+width:40%;
+background-color:#3b61a1;
+float:left;
+transition:0.3s;
+box-shadow: 10px 0 5px black;
+border-top: 1px solid white;
+box-sizing:border-box;
+}
+
+#Espcardselect{
+height:100%;
+width:40%;
+background-color:white;
+float:left;
+transition:0.3s;
+border-top: 1px solid white;
+box-sizing:border-box;
+}
+
+#Misccardselect{
+height:100%;
+width:20%;
+background-color:white;
+float:left;
+transition:0.3s;
+border-top: 1px solid white;
+box-sizing:border-box;
+}
+
+.Headerselect{
+margin:0;
+font-family:Aliquam;
+font-size:30px;
+color:white;
+text-shadow: 0 0 10px rgba(0,0,0,0.7);
+position: relative;
+top: 50%;
+transform: translateY(-50%);
+margin-left:20px;
+}
+
+.Headerselect:hover{
+cursor:pointer;
+}
+
+/*+++++End for the Style of each Carselect+++++*/
+
+/*+++++End for the Style of the Div which contains the Cardselectors+++++*/
+
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+
+/*Style of the Div which contains the actual cards*/
+
+
+
+
+
+/*Style of each Card with left and right seperation*/
+
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+
+#leftaim{
+position:fixed;
+height:70%;
+width:50%;
+float:left;
+background-color:white;
+}
+
+.Category{
+width:100%;
+height:25%;
+text-align:right;
+}
+
+.Categorytext{
+margin:0;
+position: relative;
+top: 50%;
+transform: translateY(-50%);
+color:#3b61a1;
+font-family:Aliquam;
+font-size:50px;
+margin-right:30%;
+}
+
+
+#Smooth{
+height:30px;
+}
+
+
+#rightaim{
+position:fixed;
+height:70%;
+width:50%;
+float:left;
+margin-left:50%;
+background-color:white;
+}
+
+.Categoryvalue{
+width:100%;
+height:25%;
+text-align:center;
+}
+
+#textInputFoV{
+position:absolute;
+padding:0;
+height:40px;
+width:20%;
+color:#3b61a1;
+font-family:Aliquam;
+background-color:white;
+border:none;
+margin-top:50px;
+text-align:center;
+font-size:35px;
+line-height:40px;
+font-weight:400;
+}
+
+#textInputFoV:focus{
+background-color:#3b61a1;
+color:white;
+}
+
+#textInputSmooth{
+position:absolute;
+padding:0;
+height:40px;
+width:20%;
+color:#3b61a1;
+font-family:Aliquam;
+background-color:white;
+border:none;
+margin-top:50px;
+text-align:center;
+font-size:35px;
+line-height:40px;
+font-weight:400;
+}
+
+#textInputSmooth:focus{
+background-color:#3b61a1;
+color:white;
+}
+
+#FoVslider{
+width:40%;
+height:35px;
+margin:0;
+margin-top:35px;
+margin-right:20px;
+}
+
+#FoVslider:hover{
+cursor:pointer;
+}
+
+#Smoothslider{
+width:40%;
+height:35px;
+margin:0;
+margin-top:35px;
+margin-right:20px;
+}
+
+#Smoothslider:hover{
+cursor:pointer;
+}
+
+input[type=range]::-ms-track {
+    width: 100%;
+    height: 5px;
+    
+    /*remove bg colour from the track, we'll use ms-fill-lower and ms-fill-upper instead */
+    background: transparent;
+    
+    /*leave room for the larger thumb to overflow with a transparent border */
+    border-color: transparent;
+    border-width: .2px;
+    
+    /*remove default tick marks*/
+    color: transparent;
+    
+}
+input[type=range]::-ms-fill-lower {
+    background: #6A8CC8;
+    border-radius:20px;
+}
+input[type=range]::-ms-fill-upper {
+    background: #828282;
+    border-radius:30px;
+   
+}
+input[type=range]::-ms-thumb {
+    border: none;
+    height: 25px;
+    width: 25px;
+    border-radius:50%;
+    background-color:#3b61a1;
+    
+}
+
+
+input[type=range]:focus::-ms-fill-lower {
+    background: #6A8CC8;
+}
+input[type=range]:focus::-ms-fill-upper {
+    background: #828282;
+}
+
+
+#RCS{
+height:30px;
+width:30px;
+background-color:#3b61a1;
+border:none;
+margin:0;
+position: relative;
+top: 50%;
+transform: translateY(-50%);
+color:red;
+margin-right:10px;
+}
+
+#Nospread{
+height:30px;
+width:30px;
+background-color:#3b61a1;
+border:none;
+margin:0;
+position: relative;
+top: 50%;
+transform: translateY(-50%);
+color:red;
+margin-right:10px;
+}
+
+
+
+
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+
+#leftesp{
+position:fixed;
+height:70%;
+width:70%;
+float:left;
+background-color:white;
+margin-top:1000%;
+}
+
+#rightesp{
+position:fixed;
+height:70%;
+width:30%;
+float:left;
+background-color:white;
+margin-left:70%;
+margin-top:1000%;
+}
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+#leftmisc{
+position:fixed;
+height:70%;
+width:70%;;
+float:left;
+background-color:white;
+margin-top:1000%;
+}
+
+#rightmisc{
+position:fixed;
+height:70%;
+width:30%;
+float:left;
+background-color:white;
+margin-left:70%;
+margin-top:1000%;
+}
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+/*+++++End of Style of each Card+++++*/
+
+
+
+
+/*+++++End of the Style of the Div which contais the actual cards+++++*/
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+

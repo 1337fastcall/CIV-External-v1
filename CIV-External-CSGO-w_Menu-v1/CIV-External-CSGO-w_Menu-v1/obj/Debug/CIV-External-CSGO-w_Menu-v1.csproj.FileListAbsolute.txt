@@ -16,3 +16,12 @@ C:\Users\Vince\Documents\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-
 C:\Users\Vince\Documents\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV-External-CSGO-w_Menu-v1.csproj.GenerateResource.Cache
 C:\Users\Vince\Documents\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\bin\Debug\CIV-External-CSGO-w_Menu-v1.exe
 C:\Users\Vince\Documents\GitHub\CIV-External-v1\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\bin\Debug\CIV-External-CSGO-w_Menu-v1.pdb
+C:\Users\__fastcall\Desktop\tests\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\bin\Debug\CIV-External-CSGO-w_Menu-v1.exe.config
+C:\Users\__fastcall\Desktop\tests\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV-External-CSGO-w_Menu-v1.exe
+C:\Users\__fastcall\Desktop\tests\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV-External-CSGO-w_Menu-v1.pdb
+C:\Users\__fastcall\Desktop\tests\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV-External-CSGO-w_Menu-v1.csprojResolveAssemblyReference.cache
+C:\Users\__fastcall\Desktop\tests\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV_External_CSGO_w_Menu_v1.MenuForm.resources
+C:\Users\__fastcall\Desktop\tests\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV_External_CSGO_w_Menu_v1.Properties.Resources.resources
+C:\Users\__fastcall\Desktop\tests\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\obj\Debug\CIV-External-CSGO-w_Menu-v1.csproj.GenerateResource.Cache
+C:\Users\__fastcall\Desktop\tests\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\bin\Debug\CIV-External-CSGO-w_Menu-v1.exe
+C:\Users\__fastcall\Desktop\tests\CIV-External-CSGO-w_Menu-v1\CIV-External-CSGO-w_Menu-v1\bin\Debug\CIV-External-CSGO-w_Menu-v1.pdb

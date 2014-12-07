@@ -30,6 +30,7 @@
         {
             this.MenuBrowser = new System.Windows.Forms.WebBrowser();
             this.ApplyButton = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // MenuBrowser
@@ -56,11 +57,21 @@
             this.ApplyButton.UseVisualStyleBackColor = false;
             this.ApplyButton.Click += new System.EventHandler(this.ApplyButton_Click);
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(375, 53);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(154, 290);
+            this.listBox1.TabIndex = 3;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
+            // 
             // MenuForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(584, 761);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.ApplyButton);
             this.Controls.Add(this.MenuBrowser);
             this.Name = "MenuForm";
@@ -73,6 +84,7 @@
 
         private System.Windows.Forms.WebBrowser MenuBrowser;
         private System.Windows.Forms.Button ApplyButton;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }
 

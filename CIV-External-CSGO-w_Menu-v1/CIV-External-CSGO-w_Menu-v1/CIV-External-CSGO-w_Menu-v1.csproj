@@ -44,6 +44,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cheat\Aimbot\CAimbot.cs" />
+    <Compile Include="Cheat\ESP\CESP.cs" />
+    <Compile Include="Cheat\ImportedFunctions\CKernel32.cs" />
+    <Compile Include="Cheat\ImportedFunctions\CUser32.cs" />
+    <Compile Include="Cheat\Memory\CMemory.cs" />
+    <Compile Include="Cheat\Memory\CPointer.cs" />
+    <Compile Include="Cheat\Misc\CMisc.cs" />
+    <Compile Include="Cheat\SDK\CBaseEntity.cs" />
+    <Compile Include="Cheat\SDK\CMath.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +85,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Cheat\Triggerbot\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

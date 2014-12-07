@@ -18,8 +18,6 @@ namespace CIV_External_CSGO_w_Menu_v1
         {
             InitializeComponent();
 
-            string Timestamp = DateTime.Now.ToString("dd-MM-yyyy");
-
             string key = "HKEY_CURRENT_USER\\SOFTWARE\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_BROWSER_EMULATION\\";
             string valueName = Application.ProductName + ".exe";
 
@@ -36,6 +34,11 @@ namespace CIV_External_CSGO_w_Menu_v1
         }
 
         private void MenuBrowser_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
